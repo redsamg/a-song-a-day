@@ -74,7 +74,7 @@ client = Client(account_sid, auth_token)
 
 message = client.messages \
                 .create(
-                     body="Hey, Sam! Here is the link to your song of the day: " + final_track,
+                     body="Hey there! Here is the link to your song of the day: " + final_track,
                      from_='{your twilio phone number}', # <- enter your Twilio number (https://www.twilio.com/docs/sms/quickstart/python#install-python-and-the-twilio-helper-library)
                      to='{receipient phone number}' # <- enter number(s) of those to whom you wish to text
                  )
