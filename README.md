@@ -7,9 +7,9 @@ This project is, first and foremost, a Christmas present.
 
 1) Someone close to me is always wishing for me to share music with them.
 
-2) With a tight schedule and a glut of podcasts, songs, audiobooks, and additional auditory stimuli to choose from,
+2) With tight schedules and a glut of podcasts, songs, audiobooks, and additional auditory stimuli to choose from,
    it can be difficult to remember, choose... 
-   well - whatever the excuse is - one often does not listen to the music that has been reccomended to them.
+   well, whatever the excuse is, one often does not listen to the music that has been reccomended to them.
 
 # Solution:
 
