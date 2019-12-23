@@ -5,7 +5,7 @@ This project is, first and foremost, a Christmas present.
 
 # Problem space: 
 
-1) Someone close to me is always wishing for me to share music them.
+1) Someone close to me is always wishing for me to share music with them.
 
 2) With a tight schedule and a glut of podcasts, songs, audiobooks, and additional auditory stimuli that exist in said individual's life,
    it can be difficult for them to remember, choose... 
