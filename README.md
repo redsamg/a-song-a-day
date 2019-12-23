@@ -2,7 +2,7 @@
 
 This project is, first and foremost, a Christmas present. You'll need a Spotify account, and a Twilio account.
 
-tl;dr - use this app to text assorted Spotify tracks from any playlist to your friends & fam
+tl;dr - use this app to send assorted Spotify tracks from any playlist to your friends & fam via SMS
 
 # Problem space: 
 
