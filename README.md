@@ -1,8 +1,8 @@
 # a-song-a-day
 
-This project is, first and foremost, a Christmas present. You'll need a Spotify account, and a Twilio account.
+This project is, first and foremost, a Christmas present. You'll need a Spotify account, and a Twilio account (links below).
 
-tl;dr - use this app to send assorted Spotify tracks from any playlist to your friends & fam via SMS
+tl;dr - use this app to send assorted Spotify tracks from any playlist to your friends/family via SMS
 
 # Problem space: 
 
@@ -10,15 +10,20 @@ tl;dr - use this app to send assorted Spotify tracks from any playlist to your f
 
 2) With tight schedules and a glut of podcasts, songs, audiobooks, and additional auditory stimuli to choose from,
    it can be difficult to remember, choose... 
-   well, whatever the excuse is, one often does not listen to the music that has been reccomended to them.
+   well, whatever the excuse is, one often needs a reminder to listen to the music that has been reccomended.
 
 # Solution:
 
-This simple application ("simple" could be an understatement - "rudimentary" may also come to mind...) solves for the above problems by:
+This simple application ("simple" could be an understatement - "rudimentary" may also come to mind...) solves for the above problems, and is:
 
-Selecting one, random track from any playlist of your choice and texting the appropriate Spotify track link to anyone you like.
-I have used Twilio for the text messaging service API (as you'll see in the .py), and an AWS EC2 instance for scheduling and running the app.
-Currently, I have several family members and friends who recieve a song a day from me, every morning during their commute (without any effort on my end..!).
+Simplifying <- a-song-a-day selects one random track from a playlist of your choice
+Engaging <- the app is designed to text (SMS) the Spotify link to said track to any phone number you choose 
+Hands-off <- the app (once piped into an EC2 instance) is completely hands-off and will text on a schedule for you (another, less automated solution would be for the app to run on your local machine at log-in)
+
+# Next Steps:
+
+As a next step, I am looking to incorporate user feedback into the app. Spotify already has user preference functionality built in, so I will be incorporating this logic into the track selection process, going forward.
+
 
 Any and all feedback is welcomed and appreciated!
 
