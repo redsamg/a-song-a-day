@@ -1,5 +1,4 @@
 # a-song-a-day
-A song a day keeps the doctor away... 
 
 This project is, first and foremost, a Christmas present. You'll need a Spotify account, and a Twilio account.
 
