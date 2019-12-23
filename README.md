@@ -3,6 +3,8 @@ A song a day keeps the doctor away...
 
 This project is, first and foremost, a Christmas present. You'll need a Spotify account, and a Twilio account.
 
+tl;dr - use this app to text assorted Spotify tracks from any playlist to your friends & fam
+
 # Problem space: 
 
 1) Someone close to me is always wishing for me to share music with them.
