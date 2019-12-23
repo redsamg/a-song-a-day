@@ -6,7 +6,7 @@ tl;dr - use this app to send assorted Spotify tracks from any playlist to your f
 
 # Problem space: 
 
-1) Someone close to me is always wishing for me to share music with them.
+1) Someone that I know well is always wishing for me to share music with them.
 
 2) With tight schedules and a glut of podcasts, songs, audiobooks, and additional auditory stimuli to choose from,
    it can be difficult to remember, choose... 
