@@ -20,7 +20,7 @@ Simplifying <- a-song-a-day selects one random track from a playlist of your cho
 
 Engaging <- the app is designed to text (SMS) the Spotify link to said track to any phone number you choose 
 
-Hands-off <- the app (once piped into an EC2 instance) is completely hands-off and will text on a schedule for you (another, less automated solution would be for the app to run on your local machine at log-in)
+Hands-off <- the app (once hooked up to a server - I'm using the free version of pythonanywhere to schedule this task) is completely hands-off and will text on a schedule for you (another, less automated solution would be for the app to run on your local machine at log-in)
 
 # Next Steps:
 
