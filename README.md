@@ -29,4 +29,4 @@ As a next step, I am looking to incorporate user feedback into the app. Spotify 
 
 Any and all feedback is welcomed and appreciated!
 
-Oh, and I rely heavily on Spotify and Twilio to make this app run. Check them out, here: https://developer.spotify.com/, and here: https://www.twilio.com/console.
+I rely heavily on Spotify and Twilio to make this app run. Check them out, here: https://developer.spotify.com/, and here: https://www.twilio.com/console.
