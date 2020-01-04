@@ -10,7 +10,7 @@ tl;dr - use this app to send assorted Spotify tracks from any playlist to your f
 
 2) With tight schedules and a glut of podcasts, songs, audiobooks, and additional auditory stimuli to choose from,
    it can be difficult to remember, choose... 
-   well, whatever the excuse is, one often needs a reminder to listen to the music that has been reccomended.
+   well, whatever the excuse is, one often needs a reminder to listen to the music that has been reccomended to them.
 
 # Solution:
 
